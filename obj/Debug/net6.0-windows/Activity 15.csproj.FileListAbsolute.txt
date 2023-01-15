@@ -1,0 +1,18 @@
+C:\Users\withe\source\repos\Activity 15\Activity 15\bin\Debug\net6.0-windows\Activity 15.exe
+C:\Users\withe\source\repos\Activity 15\Activity 15\bin\Debug\net6.0-windows\Activity 15.deps.json
+C:\Users\withe\source\repos\Activity 15\Activity 15\bin\Debug\net6.0-windows\Activity 15.runtimeconfig.json
+C:\Users\withe\source\repos\Activity 15\Activity 15\bin\Debug\net6.0-windows\Activity 15.dll
+C:\Users\withe\source\repos\Activity 15\Activity 15\bin\Debug\net6.0-windows\Activity 15.pdb
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\Activity 15.csproj.AssemblyReference.cache
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\Activity_15.Form1.resources
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\Activity_15.Form2.resources
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\Activity 15.csproj.GenerateResource.cache
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\Activity 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\Activity 15.AssemblyInfoInputs.cache
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\Activity 15.AssemblyInfo.cs
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\Activity 15.csproj.CoreCompileInputs.cache
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\Activity 15.dll
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\refint\Activity 15.dll
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\Activity 15.pdb
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\Activity 15.genruntimeconfig.cache
+C:\Users\withe\source\repos\Activity 15\Activity 15\obj\Debug\net6.0-windows\ref\Activity 15.dll
